@@ -8,7 +8,19 @@
 - 🥅 2022 Goals: Learn more about React & competitive code
 - ⚡ Fun fact: I love photography more of street and Nature. 
 
+### Connect with me:
 
+[![website](./img/globe-light.svg)](https://##)
+[![website](./img/globe-dark.svg)](https:/##)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/va_g._bond/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/va_g._bond/)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishal-brahmbhatt-845336140/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishal-brahmbhatt-845336140/)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Kakashi_n07)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Kakashi_n07)
 
 ### Languages and Tools:
 
