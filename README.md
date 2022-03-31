@@ -2,7 +2,7 @@
 
 ## REACT | J2EE | Spring:boot | Web Development
 
-- 🔭 New Website will be here [comming soon]
+- 🔭 New Website will be here [https://vishalbrahmbhatt.netlify.app/]
 - 🌱 I’m currently learning react & brushing up DSA as always 🤣
 - 👯 I’m looking for good opportunity in React dev. work
 - 🥅 2022 Goals: Learn more about React & competitive code
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://##)
-[![website](./img/globe-dark.svg)](https:/##)
+[![website](./img/globe-light.svg)](https://https://vishalbrahmbhatt.netlify.app/)
+[![website](./img/globe-dark.svg)](https:/https://vishalbrahmbhatt.netlify.app/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/va_g._bond/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/va_g._bond/)
