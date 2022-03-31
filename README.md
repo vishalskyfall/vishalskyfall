@@ -2,7 +2,7 @@
 
 ## REACT | J2EE | Spring:boot | Web Development
 
-- 🔭 New Website will be here [[![PortFolio](https://img.shields.io/badge/PortFolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishalbrahmbhatt.netlify.app/)]
+- 🔭 New Website will be here [![Portfolio](https://img.shields.io/badge/PortFolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishalbrahmbhatt.netlify.app/) 
 - 🌱 I’m currently learning react & brushing up DSA as always 🤣
 - 👯 I’m looking for good opportunity in React dev. work
 - 🥅 2022 Goals: Learn more about React & competitive code
