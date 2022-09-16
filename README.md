@@ -13,14 +13,14 @@
 [![website](./img/globe-light.svg)](https://https://vishalbrahmbhatt.netlify.app/)
 [![website](./img/globe-dark.svg)](https:/https://vishalbrahmbhatt.netlify.app/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/va_g._bond/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/va_g._bond/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/vishal._brahmbhatt/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/vishal._brahmbhatt/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishal-brahmbhatt-845336140/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishal-brahmbhatt-845336140/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishalbrahmbhatt1092/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishalbrahmbhatt1092/)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Kakashi_n07)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Kakashi_n07)
+[![website](./img/twitter-light.svg)](https://twitter.com/#)
+[![website](./img/twitter-dark.svg)](https://twitter.com/#)
 
 ### Languages and Tools:
 
